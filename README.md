@@ -17,4 +17,3 @@ make re (the command deletes the old program and creates a new)
 ```
 
 **Author** - _Mark Veligod_  
-**School 21** - _ckakuna_
